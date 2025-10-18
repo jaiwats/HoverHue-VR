@@ -1,2 +1,0 @@
-E:\Assignments_year_4\SIT756\Assignment2\A2(Support)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
-E:\Assignments_year_4\SIT756\Assignment2\A2(Support)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

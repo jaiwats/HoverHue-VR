@@ -1,5 +1,0 @@
-E:/Assignments_year_4/SIT756/Assignment2/A2(Support)/.utmp/RelWithDebInfo/6g4i393u/arm64-v8a/CMakeFiles/edit_cache.dir
-E:/Assignments_year_4/SIT756/Assignment2/A2(Support)/.utmp/RelWithDebInfo/6g4i393u/arm64-v8a/CMakeFiles/rebuild_cache.dir
-E:/Assignments_year_4/SIT756/Assignment2/A2(Support)/.utmp/RelWithDebInfo/6g4i393u/arm64-v8a/GameActivity/CMakeFiles/game.dir
-E:/Assignments_year_4/SIT756/Assignment2/A2(Support)/.utmp/RelWithDebInfo/6g4i393u/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
-E:/Assignments_year_4/SIT756/Assignment2/A2(Support)/.utmp/RelWithDebInfo/6g4i393u/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
