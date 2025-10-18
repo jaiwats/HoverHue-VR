@@ -1,3 +1,8 @@
+# HoverHue VR
+HoverHue VR a locomotion system ith a paintbrush, color , unique UI and motion controls.
+[🎥 Watch the Demo (YouTube)](https://www.youtube.com/shorts/iDsAbZ-cLlY)  
+[🎮 Play the Build on Itch.io](https://n9ano.itch.io/hoverhue-vr)
+
 # 🎨 HoverHue VR
 
 **HoverHue VR** is an experimental VR painting game that combines **locomotion, creativity, and challenge** into one colorful experience.  
